@@ -1,0 +1,5 @@
+print("Taisnstūra laukuma aprēķināšana")
+a = int(input("Taisnstūra garākā mala"))
+b = int(input("Taisnstūra īsākā mala"))
+taisn_S = (a*b)
+print(f"Taisnstūra laukums = {taisn_S}cm2")
